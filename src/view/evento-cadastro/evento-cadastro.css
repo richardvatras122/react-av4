@@ -1,0 +1,10 @@
+..btn-cadastrar{
+    color: #FFF;
+    background-color: rgb(2, 2, 2);
+}
+
+.btn-cadastrar:hover{
+    color: #FFF;
+    background-color: rgb(242, 22, 22);
+}
+
