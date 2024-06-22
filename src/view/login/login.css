@@ -1,0 +1,29 @@
+.login-content {
+    width: 100%;
+    padding: 15%;
+    margin: auto;
+    background-image: url("https://oceanicaalimentos.com.br/wp-content/uploads/2020/01/FUNDO.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.btn-login {
+    color: #0c0b0b;
+    background-color: #fff;
+}
+
+.btn-login:hover {
+    color: rgb(253, 249, 249);
+    background-color: #00000000;
+}
+
+.opcoes-login a {
+    color: #fff;
+    text-decoration: none;
+    transition: .3s ease-in;
+}
+
+.opcoes-login a:hover {
+    color: #f21667;
+}
+
